@@ -10,8 +10,11 @@ This repository contains a simple shell script to set up an **Ubuntu VPS** with:
 
 ## 🚀 Usage
 
-### Option 1: Download and run
+### 1. Download the script
 ```bash
-curl -o ~/setup.sh https://raw.githubusercontent.com/YOUR-USERNAME/server-setup/main/setup.sh
+curl -o ~/setup.sh https://raw.githubusercontent.com/omodingmike/vps-setup-static-files/main/setup.sh
 chmod +x ~/setup.sh
-./setup.sh straightahead.ug
+```
+
+### 2. Download the script
+./setup.sh example.com
