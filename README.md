@@ -17,4 +17,6 @@ chmod +x ~/setup.sh
 ```
 
 ### 2. Download the script
+```bash
 ./setup.sh example.com
+```
