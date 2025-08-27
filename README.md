@@ -4,7 +4,7 @@ This repository contains a simple shell script to set up an **Ubuntu VPS** with:
 
 - **Nginx** (to serve static files)
 - **Let’s Encrypt SSL** (via Certbot, with auto-renewal)
-- A basic site directory under `/var/www/<domain>`
+- Site document root `/var/www/<domain>`
 
 ---
 
